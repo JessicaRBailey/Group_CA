@@ -1,7 +1,4 @@
-﻿Title,ParkType
-Annual Park Ranking Report for Recreation Visits in: 2022,Park Type: National Park
-
-ParkName,Rank,Value,PercentOfTotal
+﻿ParkName,Rank,Value,PercentOfTotal
 Great Smoky Mountains NP,1,"12,937,633",14.59%
 Grand Canyon NP,2,"4,732,101",5.34%
 Zion NP,3,"4,692,417",5.29%
