@@ -83,6 +83,7 @@ profile_default/
 ipython_config.py
 
 #config for api keys etc
+/Park_History/configuration.py
 /City_Population_To_Park_Visitors/configuration.py
 
 # pyenv
