@@ -21,7 +21,7 @@ Here is some of the visitor data from National Parks in 2022
 ### Top 5 Most Popular States To Visit National Parks
 ![Top Five States with Most Visitors per Year - Pie Chart](https://github.com/JessicaRBailey/Group_CA/assets/23018536/f7a09cad-f2e1-48a8-9a3d-c301f75ecd4f)
 
-In an effort to understand why some parks are more popular than others, we set out to answer the following questions:
+### In an effort to understand why some parks are more popular than others, we set out to answer the following questions:
 
 * Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
 * Does being near major cities draw more visitors into a national park?
