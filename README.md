@@ -41,11 +41,11 @@ This project is built with Python, using the following libraries
 
 ### Local Environment Setup
 Each file in this repo has the output already built in for easy viewing. However, if you'd like to clone this repo and run the code on your local machine, here's a list of prerequisites.
-1.[Clone the repository](https://github.com/JessicaRBailey/Group_CA "Clone the repository") 
-2.[Download and Install Python](https://www.python.org/downloads/ "Download Python")
-3.[Download and Install Anaconda](https://docs.anaconda.com/free/anaconda/getting-started/index.html "Download and Install Anaconda")
-4.Run `jupyter notebook` or `jupyter lab` from bash or terminal on your machine
-5.Navigate to the Group_CA directory you've cloned on your machine.
+1. [Clone the repository](https://github.com/JessicaRBailey/Group_CA "Clone the repository") 
+2. [Download and Install Python](https://www.python.org/downloads/ "Download Python")
+3. [Download and Install Anaconda](https://docs.anaconda.com/free/anaconda/getting-started/index.html "Download and Install Anaconda")
+4. Run `jupyter notebook` or `jupyter lab` from bash or terminal on your machine
+5. Navigate to the Group_CA directory you've cloned on your machine.
 
 ### Special Thanks and Attributions
 Data for this project comes from the following sources
