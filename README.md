@@ -95,5 +95,17 @@ There is a slight correlation between the age of a national park, and its annual
 However, with a p-value of 0.386, its likely a non-representitive sample and we cannot disprove the null hypotheses
 
 ## Do larger national parks attract more overnight stays?
+National Parks vary widely in size. While Gateway Arch is around 91 acres, Wrangell-St. Elias national park is over 13 million acres. 
+
+But does the size of the park affect the number of overnight stays by visitors? Here are the total number of overnight stays, by park. 
+
+### Results
+The analysis explored the relationship between park size and overnight stays in national parks. It found some connection, between the size of a park and the number of overnight stays. However, with a correlation coefficient of 0.02, a the correlation is small. 
+
+
+Additionally, a statistical test comparing park size and overnight stays showed a significant difference. This suggests that other factors may have a greater impact on the number of overnight stays.
+
+
+In conclusion, while larger parks may have the potential to attract more overnight visitors, the relationship between park size and overnight stays is weak. It's important to consider other influential factors when aiming to attract visitors to stay overnight in national parks.
 
 ## Do More Park Activities Attract More Visitors?
