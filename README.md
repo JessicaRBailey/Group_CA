@@ -1,6 +1,6 @@
-====== Popular Parks
+# Popular Parks
 
-#####An analysis of why certain national parks are more popular than others 
+##### An analysis of why certain national parks are more popular than others 
 
 You might be surprised to know that not all national parks are created equal. There are wild differences in size, seasonal access, activities offered, wildlife, and weather. But one of the greatest differences between the parks is the average number of visitors each year. 
 
@@ -24,11 +24,11 @@ This project is built with Python, using the following libraries
 
 ##### Local Environment Setup
 Each file in this repo has the output already built in for easy viewing. However, if you'd like to clone this repo and run the code on your local machine, here's a list of prerequisites.
-1)[Clone the repository](https://github.com/JessicaRBailey/Group_CA "Clone the repository") 
-1)[Download and Install Python](https://www.python.org/downloads/ "Download Python")
-2)[Download and Install Anaconda](https://docs.anaconda.com/free/anaconda/getting-started/index.html "Download and Install Anaconda")
-Run `jupyter notebook` or `jupyter lab` from bash or terminal on your machine
-Navigate to the Group_CA directory you've cloned on your machine.
+1.[Clone the repository](https://github.com/JessicaRBailey/Group_CA "Clone the repository") 
+2.[Download and Install Python](https://www.python.org/downloads/ "Download Python")
+3.[Download and Install Anaconda](https://docs.anaconda.com/free/anaconda/getting-started/index.html "Download and Install Anaconda")
+4.Run `jupyter notebook` or `jupyter lab` from bash or terminal on your machine
+5.Navigate to the Group_CA directory you've cloned on your machine.
 
 ##### Special Thanks and Attributions
 Data for this project comes from the following sources
@@ -40,6 +40,14 @@ Data for this project comes from the following sources
 #Project Results
 
 ## Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
+
+##### Results
+The average summer temperature does affect a park's popularity to some degree. Visitor numbers increase from below 60º to 80º, and then taper off as the temperature rises above 80º
+![Avg_Temp_Scatter](https://github.com/JessicaRBailey/Group_CA/assets/23018536/0be815bb-66ce-4012-93f8-35c27001568b)
+
+
+
+
 ## Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
 ## Does being near major cities draw more visitors into a national park?
 ## Do older, more historical parks, enjoy more anual visitors?
