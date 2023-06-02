@@ -42,7 +42,9 @@ Data for this project comes from the following sources
 ## Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
 
 ### Results
-The average summer temperature does affect a park's popularity to some degree. Visitor numbers increase from below 60º to 80º, and then taper off as the temperature rises above 80º
+The average summer temperature does affect a park's popularity to some degree. Visitor numbers increase from below 60º to 
+80º, and then taper off as the temperature rises above 80º
+
 ![Avg_Temp_Scatter](https://github.com/JessicaRBailey/Group_CA/assets/23018536/0be815bb-66ce-4012-93f8-35c27001568b)
 
 ![Temperature_Range_Box_Plot](https://github.com/JessicaRBailey/Group_CA/assets/23018536/b9b2ed65-813d-4356-bbec-6fcef40247db)
@@ -71,8 +73,10 @@ The intent of this question is "When people live around a national park, does it
 ### Results
 There is a slight correlation between the age of a national park, and its annual visitors. The R-Value for this correlaion is .29 - which is weak, but still a relationship.
 
+![Innauguration_vs_Popularity](https://github.com/JessicaRBailey/Group_CA/assets/23018536/2aee2a77-bdbc-48e7-aad0-f60bf20f6a3d)
+
 However, with a p-value of 0.386, its likely a non-representitive sample and we cannot disprove the null hypotheses
 
 ## Do larger national parks attract more overnight stays?
 
-## Do larger national parks attract more overnight stays?
+## Do More Park Activities Attract More Visitors?
