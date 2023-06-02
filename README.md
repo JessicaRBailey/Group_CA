@@ -4,6 +4,23 @@
 
 You might be surprised to know that not all national parks are created equal. There are wild differences in size, seasonal access, activities offered, wildlife, and weather. But one of the greatest differences between the parks is the average number of visitors each year. 
 
+Here is some of the visitor data from National Parks in 2022
+
+### Annual Visitors Per Park
+![Annual Number of Visitors Per Park - Bar chart](https://github.com/JessicaRBailey/Group_CA/assets/23018536/7c9841fb-5d04-4d37-89f8-2c88720ceff6)
+
+### Annual Visitors Per State
+![Annual Parks Visitors per State - Bar Chart](https://github.com/JessicaRBailey/Group_CA/assets/23018536/6228fa24-5030-413d-8406-74a236c91533)
+
+### Country Map With More Popular Parks Represented By Larger Dots
+![Annual Visitors per State - Map](https://github.com/JessicaRBailey/Group_CA/assets/23018536/a8fcc6a8-e0bc-4d54-a216-78eb59daba58)
+
+### Top 5 Most Popular Parks
+![Top Five Parks with Most Visitors per Year - Pie Chart](https://github.com/JessicaRBailey/Group_CA/assets/23018536/f355c864-6613-4d83-9086-c18fbb55db87)
+
+### Top 5 Most Popular States To Visit National Parks
+![Top Five States with Most Visitors per Year - Pie Chart](https://github.com/JessicaRBailey/Group_CA/assets/23018536/f7a09cad-f2e1-48a8-9a3d-c301f75ecd4f)
+
 In an effort to understand why some parks are more popular than others, we set out to answer the following questions:
 
 * Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
