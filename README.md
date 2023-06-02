@@ -76,6 +76,7 @@ It's not always straightforward to determine what "being near major cities" mean
 
 ### Results
 There does NOT appear to be any correlation between a park's proximity to international airports, and it's popularity. Rocky Mountain National Park is near only one major city (and one intl airport), but is among the most popular. On the other hand, Channel Islands National Park is near 7 major cities (7 intl airports) and is one of the least visited national parks. 
+
 ![ParkVisitorsByAirport](https://github.com/JessicaRBailey/Group_CA/assets/23018536/877734ec-5183-43b7-ace7-4215d62c67f3)
 
 ### Further Questions
@@ -96,16 +97,22 @@ However, with a p-value of 0.386, its likely a non-representitive sample and we 
 
 ## Do larger national parks attract more overnight stays?
 National Parks vary widely in size. While Gateway Arch is around 91 acres, Wrangell-St. Elias national park is over 13 million acres. 
+
 ![Total_Area_of_National_Park](https://github.com/JessicaRBailey/Group_CA/assets/23018536/d158bcee-c307-479c-a690-904944f24fcc)
+
 But does the size of the park affect the number of overnight stays by visitors? Here are the total number of overnight stays, by park. 
+
 ![Total_Overnight_Stays_by_NP](https://github.com/JessicaRBailey/Group_CA/assets/23018536/baec0389-9803-439f-8f4e-2aac0b7509e4)
+
 ![Top10 NP with Most Overnight stays](https://github.com/JessicaRBailey/Group_CA/assets/23018536/a406fb40-5f44-442a-b980-6ac50b4c42ff)
 
 ### Results
 The analysis explored the relationship between park size and overnight stays in national parks. It found some connection, between the size of a park and the number of overnight stays. However, with a correlation coefficient of 0.02, a the correlation is small. 
+
 ![Area of NP vs Total # of Overnight Stays](https://github.com/JessicaRBailey/Group_CA/assets/23018536/831f1af9-88d0-46de-ba75-b64a18341f37)
 
 Additionally, a statistical test comparing park size and overnight stays showed a significant difference. This suggests that other factors may have a greater impact on the number of overnight stays.
+
 ![t-test and P-value](https://github.com/JessicaRBailey/Group_CA/assets/23018536/094d4b07-ae3a-4b0b-8701-bea31e118508)
 
 In conclusion, while larger parks may have the potential to attract more overnight visitors, the relationship between park size and overnight stays is weak. It's important to consider other influential factors when aiming to attract visitors to stay overnight in national parks.
