@@ -82,8 +82,10 @@ target/
 profile_default/
 ipython_config.py
 
-# Config for api keys etc
-config.py
+#config for api keys etc
+/Park_History/configuration.py
+/City_Population_To_Park_Visitors/configuration.py
+/Park_Weather/configure.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
