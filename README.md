@@ -28,10 +28,10 @@ Here is some of the visitor data from National Parks in 2022
 * Do older, more historical parks, enjoy more anual visitors?
 * Do larger national parks attract more overnight stays?
 
-##### Some Caveats
+### Some Caveats
 The national park system is comprised of almost 500 sites across all 50 states and teritories. Battle grounds, monuments, nature preserves, etc are all *managed* by the US National Park system, but are NOT national parks. For this research, we included ONLY sites with the  **National Park** designation. There are 63 of them in total
 
-##### The Tech Stack
+### The Tech Stack
 This project is built with Python, using the following libraries
 * Pandas
 * Matplotlib
@@ -39,7 +39,7 @@ This project is built with Python, using the following libraries
 * Scipy
 * NumPy
 
-##### Local Environment Setup
+### Local Environment Setup
 Each file in this repo has the output already built in for easy viewing. However, if you'd like to clone this repo and run the code on your local machine, here's a list of prerequisites.
 1.[Clone the repository](https://github.com/JessicaRBailey/Group_CA "Clone the repository") 
 2.[Download and Install Python](https://www.python.org/downloads/ "Download Python")
@@ -47,14 +47,14 @@ Each file in this repo has the output already built in for easy viewing. However
 4.Run `jupyter notebook` or `jupyter lab` from bash or terminal on your machine
 5.Navigate to the Group_CA directory you've cloned on your machine.
 
-##### Special Thanks and Attributions
+### Special Thanks and Attributions
 Data for this project comes from the following sources
 * Select National Park Data Comes from the stats section of the the National Parks Service (https://irma.nps.gov/Stats/)
 * National Park API data comes from the National Park API. Information on that can be found at https://www.nps.gov/subjects/developer/api-documentation.htm
 * Airport API data comes from the TomTom API. Information on that can be found here: https://developer.tomtom.com/
 * Weather data pulled from the Visual Crossings API. Information on that can be found here: https://www.visualcrossing.com/weather-api
 
-#Project Results
+# Project Results
 
 ## Does the average temperature during a park's peak season (May-Sept) affect it's anual visitors?
 
@@ -71,7 +71,7 @@ In summer, the National Parks weather is remarkably similar, with the vast major
 
 ## Does being near major cities draw more visitors into a national park?
 
-##### Assumptions Made
+#### Assumptions Made
 It's not always straightforward to determine what "being near major cities" means. For this analysis, a major city was one which had at least one international airport. And 'near' means within 300 miles. Essentially, we thought that if a visitor could drive to a park in a day, they might be more likely to visit that park.
 
 ### Results
