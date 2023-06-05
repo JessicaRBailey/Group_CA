@@ -118,3 +118,19 @@ Additionally, a statistical test comparing park size and overnight stays showed 
 In conclusion, while larger parks may have the potential to attract more overnight visitors, the relationship between park size and overnight stays is weak. It's important to consider other influential factors when aiming to attract visitors to stay overnight in national parks.
 
 ## Do More Park Activities Attract More Visitors?
+
+In our preliminary investigation, we found that differnt parks offer different activities to visitors. Some parks offer almost no activities, while others offer camping, tours, ATVing, stargazing, nature hikes, wildlife viewing, and dozens of other activities. So does the number of activities a park offers affect its number of annual visitors? 
+
+Here is a chart showing the number of different activities that each National Park offers:
+
+![ActivitiesperNationlPark](https://github.com/JessicaRBailey/Group_CA/assets/23018536/54c9e786-c441-477e-b57e-259d377ee525)
+
+### Results
+There is some connection between the number of activities a park offers and the number of annual visitors. However, with an rSquared of only .2, the correlation is weak. It is possible that more activities equal more visitors. But it does not appear as though the number of activities available in the park is a major driver of popularity.
+
+![ActivitiesperNationlPark-1](https://github.com/JessicaRBailey/Group_CA/assets/23018536/39f97977-ba69-44da-9f29-49e5dd82a28d)
+
+### Further Questions
+It occurs to us that, while there is a weak correlation between park activites and number of visitors, it's not clear which variable determines the other. It is possible that visitors are lured to parks with more activities. However, it is just as possible that more visitors ALLOWS a park to offer more activities. 
+
+Further research could isolate which variable drives the other for better clarity on the interaction between visitors and activities. 
